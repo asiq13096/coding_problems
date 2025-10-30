@@ -1,7 +1,7 @@
 🧮 This repository contains various problem solutions, written in Python using Jupyter Notebook.
 Each notebook may include multiple solution styles.  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=FFDD00)
-![Notebook](https://img.shields.io/badge/Notebook-F37626?style=for-the-badge&logo=notion&logoColor=white)
+![Notebook](https://img.shields.io/badge/Notebook-F37626?style=flat-square&logo=notion&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-DA1884?style=for-the-badge&logo=jupyter&logoColor=white)
 
 | Problem No. | Title | Difficulty | Notebook | Description |
