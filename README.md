@@ -7,5 +7,5 @@ Each notebook may include multiple solution styles.
 
 📈 -----Status-----  
 ✅ Currently includes:  
-  - 🟢 Problem #2423 – Easy | Array  
+  - 🟢 Problem #2423 – Easy | Array
 🕒 More coming soon...
