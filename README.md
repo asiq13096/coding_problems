@@ -1,4 +1,4 @@
-🧮 This repository contains my LeetCode problem solutions, written in Python using Jupyter Notebook.
+🧮 This repository contains various problem solutions, written in Python using Jupyter Notebook.
 Each notebook may include multiple solution styles.
 
 | Problem No. | Title | Notebook | Description |
